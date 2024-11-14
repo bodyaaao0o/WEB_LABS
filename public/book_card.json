@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "description": "A novel about the serious issues of race, class, gender, and family set in the Deep South during the 1930s.",
+        "price": 15.99,
+        "imageUrl": "6.jpg",
+        "genre": "drama",
+        "rating": "8.3"
+    },
+    {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "description": "A dystopian novel set in a totalitarian society under constant surveillance.",
+        "price": 12.50,
+        "imageUrl": "7.jpg",
+        "genre": "fantasy",
+        "rating": "7.7"
+    },
+    {
+        "id": 3,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "description": "A classic novel that explores themes of love, class, and reputation in 19th century England.",
+        "price": 10.99,
+        "imageUrl": "8.jpg",
+        "genre": "horror",
+        "rating": "6.3"
+    },
+    {
+        "id": 4,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "description": "A story about the jazz age and the American dream, set in 1920s New York.",
+        "price": 13.99,
+        "imageUrl": "9.jpg",
+        "genre": "action",
+        "rating": "9.3"
+    },
+    {
+        "id": 5,
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "description": "An epic tale of adventure and obsession as Captain Ahab pursues the white whale, Moby Dick.",
+        "price": 14.75,
+        "imageUrl": "10.jpg",
+        "genre": "fantasy",
+        "rating": "6.9"
+    },
+    {
+        "id": 6,
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "description": "A historical novel that follows the lives of five aristocratic families during the Napoleonic Wars.",
+        "price": 19.95,
+        "imageUrl": "11.jpg",
+        "genre": "drama",
+        "rating": "8.4"
+    },
+    {
+        "id": 7,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "description": "A novel about teenage rebellion and alienation told through the eyes of Holden Caulfield.",
+        "price": 11.99,
+        "imageUrl": "12.jpg",
+        "genre": "action",
+        "rating": "9.8"
+    },
+    {
+        "id": 8,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "description": "A fantasy novel that follows the journey of Bilbo Baggins to win a share of treasure guarded by Smaug the dragon.",
+        "price": 16.50,
+        "imageUrl": "13.jpg",
+        "genre": "action",
+        "rating": "7.2"
+    }
+]
